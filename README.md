@@ -1,4 +1,4 @@
-# desafio
+# QR CODE SCANNER
 
 A new Flutter project.
 
